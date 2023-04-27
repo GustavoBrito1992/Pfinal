@@ -9,7 +9,7 @@ import java.util.Objects;
 
 /**
  *
- * @author Echeverria Jesica
+ * @author Gustavo
  */
 public class Ronda {
 
