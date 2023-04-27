@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Echeverria Jesica
+ * @author Gustavo
  */
 public class Lector {
 
