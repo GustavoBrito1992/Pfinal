@@ -14,7 +14,7 @@ import java.util.Set;
 
 /**
  *
- * @author Echeverria Jesica
+ * @author Gustavo
  */
 public class Lpronos {
     //PRONOSTICO
