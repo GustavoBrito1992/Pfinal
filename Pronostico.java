@@ -6,7 +6,7 @@ package com.mycompany.principal;
 
 /**
  *
- * @author Echeverria Jesica
+ * @author Gustavo
  */
 public class Pronostico {
 
